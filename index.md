@@ -11,8 +11,8 @@ Aha..finally, im exploring GITHUB on my own. Isn't that **wonderful**?
 
 # What is my priority today?
 
-1.  Listen More
-2.  Write Notes
+1.  Study Git Bash
+2.  Experiment
 
 # To do Later
 
