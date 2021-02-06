@@ -6,6 +6,8 @@ title: Twilight Nights
 # {{page.title}}
 ## I'm editing this file after forking it from Jaya-N's repo.
 
+Demo of files includes: {% include common2.txt %}
+
 # My First GITHUB
 
 Aha..finally, im exploring GITHUB on my own. Isn't that **wonderful**?
@@ -32,4 +34,6 @@ Data file contains:
 
 The country needs {{item.name}} people with {{item.code}}
 
-{% endfor %} 
+{% endfor %}
+ 
+{% include common2.txt %}
