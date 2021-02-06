@@ -1,9 +1,9 @@
-name: India
-date: 1947
-flag: Tricolors
-name: US
-date: 1900
-flag: Blue Stars and red or white lines parallely
-name: Australia
-date: 1950
-flag: Blue Stars
+- name: India
+  date: 1947
+  flag: Tricolors
+- name: US
+  date: 1900
+  flag: Blue Stars and red or white lines parallely
+- name: Australia
+  date: 1950
+  flag: Blue Stars

@@ -23,3 +23,13 @@ Aha..finally, im exploring GITHUB on my own. Isn't that **wonderful**?
 ## To do Later
 
 [Watch] (www.youtube.com)
+
+Show the code: {{site.code}}
+
+Data file contains:
+
+{% for item in site.data.demo %}
+
+The country needs {{item.name}} people with {{item.code}}
+
+{% endfor %} 
