@@ -1,7 +1,9 @@
 ---
+layout: TRY
 title: Twilight Nights
 ---
 
+# {{page.title}}
 ## I'm editing this file after forking it from Jaya-N's repo.
 
 # My First GITHUB
